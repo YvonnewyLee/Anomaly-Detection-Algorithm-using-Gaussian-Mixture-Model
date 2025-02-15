@@ -20,23 +20,6 @@ This project uses the Boston Housing Dataset to classify housing prices based on
   - `matplotlib`
   - `seaborn`
 
-## Setup Instructions
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/repository-name.git
-   ```
-
-2. Install required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook:
-   ```
-   jupyter notebook Boston_Housing_Classification.ipynb
-   ```
-
 ## Data Description
 The Boston Housing dataset consists of 506 samples and 13 features. These features include:
 - `CRIM`: Crime rate
